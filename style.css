@@ -1,0 +1,56 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(31, 30, 30);
+}
+
+
+.principal {
+    max-width: 500px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 10%;
+    background-color: #FFF;
+    box-shadow: 0 0 5px #FFF;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+
+button {
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-family: 'Segoe UI';
+    font-size: 1.1em;
+    transition: all .5s;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+button:hover {
+    background-color: #9ac8da;
+}
+
+
+.botaoStart {
+    background-color: #85c276;
+}
+
+.botaoPause {
+    background-color: #e8e9a9;
+}
+
+.botaoReset {
+    background-color: #f3a0a0;
+}
+
+
