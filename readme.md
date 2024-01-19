@@ -16,7 +16,7 @@ O cronômetro permite que o usuário inicie, pause e reinicie o contador. É uma
 
 <h2>Como Usar </h2>
 <p>Acesse a página clicando no link.
-<a href="https://patrickrosa1.github.io/Projeto/"> Clique aqui </a>
+<a href="https://patrickrosa1.github.io/Projeto/" target="_blank"> Clique aqui </a>
   </p>
   <br> 
   
