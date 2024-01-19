@@ -6,7 +6,8 @@ Este é um projeto de cronômetro simples desenvolvido em HTML, CSS e JavaScript
 <h2>Descrição </h2>
 
 O cronômetro permite que o usuário inicie, pause e reinicie o contador. É uma aplicação leve e fácil de usar, adequada para diversas situações que requerem contagem de tempo.
-Funcionalidades
+
+<h3>Funcionalidades</h3>
 
     Iniciar: Inicia o cronômetro a partir do zero.
     Pausar: Pausa o cronômetro no tempo atual.
